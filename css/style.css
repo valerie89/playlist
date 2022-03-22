@@ -1,5 +1,9 @@
 h1 {
   text-align: center;
+  color: white;
+}
+body{
+  background-color:tomato;
 }
 
 .display {
@@ -10,7 +14,7 @@ h1 {
 }
 
 .column {
-  width: 18%;
+  width: 20%;
   padding: 25px 0px;
 }
 
@@ -19,23 +23,25 @@ h1 {
   height: 100px;
   width: auto;
   margin: 20px;
+
 }
 
 .songs p {
-  font-size: 18px;
-  height: 100px;
+  font-size: 20px;
+  height: 45px;
   font-weight: bold;
-  margin: 20px;
+  margin: 60px;
 }
 
 .artists p {
-  font-size: 18px;
+  font-size: 25px;
   height: 100px;
   margin: 20px;
+
 }
 
 .lengths p {
-  font-size: 16px;
+  font-size: 20px;
   height: 100px;
   margin: 20px;
   text-align: right;
@@ -46,7 +52,8 @@ h1 {
   font-size: 18px;
   height: 100px;
   font-weight: bold;
-  margin: 20px;
+  margin: 8px;
+  color:white;
 }
 
 .form {
